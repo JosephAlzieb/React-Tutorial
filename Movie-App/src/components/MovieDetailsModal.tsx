@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Star, Calendar, Clock, Globe, DollarSign } from 'lucide-react';
+import { X, Star, Calendar, Clock, DollarSign } from 'lucide-react';
 import type { MovieDetails } from '../types/movie';
 import { getImageUrl, formatDate, formatRating } from '../services/movieAPI';
 
