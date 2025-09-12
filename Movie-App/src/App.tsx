@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { motion } from 'framer-motion';
 import type { Movie, MovieDetails } from './types/movie';
 import { movieAPI } from './services/movieAPI';
 import Header from './components/Header';
