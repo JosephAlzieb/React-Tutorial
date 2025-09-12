@@ -59,6 +59,10 @@ A beautiful, modern React application for browsing and discovering movies using 
    
    Navigate to `http://localhost:5173` to see the app in action!
 
+## 🌐 Live Demo
+
+You can try the app online here: [https://tmdb-moviesss.vercel.app/](https://tmdb-moviesss.vercel.app/)
+
 ## 🛠️ Tech Stack
 
 - **React 19** - Modern React with hooks
@@ -142,10 +146,12 @@ npm run build
 ```
 
 ### Deploy to Vercel
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Add your environment variable in Vercel dashboard
-4. Deploy!
+To deploy this app to Vercel:
+
+1. Register at [Vercel](https://vercel.com/).
+2. Connect your GitHub account and import your repository.
+3. Add your required environment variables (e.g., `VITE_TMDB_API_KEY`) in the Vercel dashboard under Project Settings > Environment Variables.
+4. Click "Deploy" to build and launch your app.
 
 ### Deploy to Netlify
 1. Build the project: `npm run build`
