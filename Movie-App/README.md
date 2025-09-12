@@ -27,7 +27,7 @@ A beautiful, modern React application for browsing and discovering movies using 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/JosephAlzieb/React-Tutorial.git
    cd movie-hub
    ```
 
@@ -95,6 +95,18 @@ src/
 - **Smooth Animations** - Framer Motion powered transitions
 - **Responsive Grid** - Adapts from 1 to 5 columns based on screen size
 - **Glass Effects** - Modern backdrop blur effects
+
+## 📝 TODO
+
+- Add user ratings and reviews for movies
+- Implement a personal favorites/watchlist feature
+- Add advanced search and filter options (genre, year, rating, etc.)
+- Integrate movie trailers (e.g., YouTube API)
+- Show recommendations based on user activity
+- Add user authentication for personalized features
+- Support multiple languages (i18n)
+- Add a toggle for dark/light mode
+- Show streaming platform availability for each movie
 
 ## 🔧 Available Scripts
 
